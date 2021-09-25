@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using _053505_Mazurenko_Lab5.Interfaces;
+using _053505_Mazurenko_Lab5.Entities;
 
 namespace _053505_Mazurenko_Lab5.Collections
 {
     public class ItemNotFoundException : Exception
     {
+        
         public ItemNotFoundException(string message)
         : base(message)
         {
@@ -70,8 +72,8 @@ namespace _053505_Mazurenko_Lab5.Collections
                     Tail.Next = item_;
                     Tail = item_;
                 }
-            }
-           // Count++;
+            }   
+            
         }
 
         public void Remove(T item)
@@ -91,7 +93,6 @@ namespace _053505_Mazurenko_Lab5.Collections
                 Tail = current;
             }
             current.Next = current.Next.Next;
-          //  Count--;
         }
 
         private int pos = 0;
@@ -115,7 +116,6 @@ namespace _053505_Mazurenko_Lab5.Collections
                 Tail = current;
             }
             current.Next = current.Next.Next;
-          //  Count--;
 
             return current.data;
         }

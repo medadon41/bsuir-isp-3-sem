@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Уник\\2 курс\\ИСП 3 сем\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5.csproj": {}
+    "D:\\Уник\\2 курс\\ИСП 3 сем\\bsuir-isp-3-sem\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5.csproj": {}
   },
   "projects": {
-    "D:\\Уник\\2 курс\\ИСП 3 сем\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5.csproj": {
+    "D:\\Уник\\2 курс\\ИСП 3 сем\\bsuir-isp-3-sem\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Уник\\2 курс\\ИСП 3 сем\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5.csproj",
+        "projectUniqueName": "D:\\Уник\\2 курс\\ИСП 3 сем\\bsuir-isp-3-sem\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5.csproj",
         "projectName": "053505_Mazurenko_Lab5",
-        "projectPath": "D:\\Уник\\2 курс\\ИСП 3 сем\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5.csproj",
+        "projectPath": "D:\\Уник\\2 курс\\ИСП 3 сем\\bsuir-isp-3-sem\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5.csproj",
         "packagesPath": "C:\\Users\\Данила\\.nuget\\packages\\",
-        "outputPath": "D:\\Уник\\2 курс\\ИСП 3 сем\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\obj\\",
+        "outputPath": "D:\\Уник\\2 курс\\ИСП 3 сем\\bsuir-isp-3-sem\\053505_Mazurenko_Lab5\\053505_Mazurenko_Lab5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Данила\\AppData\\Roaming\\NuGet\\NuGet.Config",
