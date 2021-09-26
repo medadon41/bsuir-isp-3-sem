@@ -16,6 +16,7 @@ namespace _053505_Mazurenko_Lab5.Collections
         {
         }
     }
+
     public class Item<T>
     {
         public Item(T item) => data = item;
