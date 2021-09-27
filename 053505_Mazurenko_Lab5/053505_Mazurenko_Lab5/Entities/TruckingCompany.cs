@@ -35,13 +35,13 @@ namespace _053505_Mazurenko_Lab5.Entities
         public void Add(User user)
         {
             _users.Add(user);
-            OnChange.Invoke($"User {user.Name} was added to the users list");
+            OnChange?.Invoke($"User {user.Name} was added to the users list");
         }
 
         public void Add(Rate rate)
         {
             _rates.Add(rate);
-            OnChange.Invoke($"Rate {rate.Name} was added to the rates list");
+            OnChange?.Invoke($"Rate {rate.Name} was added to the rates list");
         }
 
         public void Remove(User user)

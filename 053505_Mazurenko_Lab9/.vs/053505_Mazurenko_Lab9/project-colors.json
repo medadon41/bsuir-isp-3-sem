@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70815b6f-fd68-4bdc-af63-9f9a97c1aafb": {
+      "ProjectGuid": "70815b6f-fd68-4bdc-af63-9f9a97c1aafb",
+      "DisplayName": "053505_Mazurenko_Lab9",
+      "ColorIndex": 0
+    },
+    "2ae0e2a2-6375-4595-8cc7-c8f0eeccea79": {
+      "ProjectGuid": "2ae0e2a2-6375-4595-8cc7-c8f0eeccea79",
+      "DisplayName": "053505_Mazurenko_Lab9.Domain",
+      "ColorIndex": 1
+    },
+    "3013ffb0-4d3a-4885-87db-08cecd78491e": {
+      "ProjectGuid": "3013ffb0-4d3a-4885-87db-08cecd78491e",
+      "DisplayName": "Serializer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

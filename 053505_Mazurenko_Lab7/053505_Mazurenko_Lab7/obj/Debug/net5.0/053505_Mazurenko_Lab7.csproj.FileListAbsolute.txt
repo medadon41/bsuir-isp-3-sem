@@ -14,3 +14,19 @@ C:\Users\Данила\source\repos\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\o
 C:\Users\Данила\source\repos\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\ref\053505_Mazurenko_Lab7.dll
 C:\Users\Данила\source\repos\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.pdb
 C:\Users\Данила\source\repos\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.genruntimeconfig.cache
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\bin\Debug\net5.0\053505_Mazurenko_Lab7.exe
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\bin\Debug\net5.0\053505_Mazurenko_Lab7.deps.json
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\bin\Debug\net5.0\053505_Mazurenko_Lab7.runtimeconfig.json
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\bin\Debug\net5.0\053505_Mazurenko_Lab7.runtimeconfig.dev.json
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\bin\Debug\net5.0\053505_Mazurenko_Lab7.dll
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\bin\Debug\net5.0\ref\053505_Mazurenko_Lab7.dll
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\bin\Debug\net5.0\053505_Mazurenko_Lab7.pdb
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.csproj.AssemblyReference.cache
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.AssemblyInfoInputs.cache
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.AssemblyInfo.cs
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.csproj.CoreCompileInputs.cache
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.dll
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\ref\053505_Mazurenko_Lab7.dll
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.pdb
+D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab7\053505_Mazurenko_Lab7\obj\Debug\net5.0\053505_Mazurenko_Lab7.genruntimeconfig.cache

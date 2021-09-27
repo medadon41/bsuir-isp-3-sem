@@ -75,7 +75,7 @@ namespace _053505_Mazurenko_Lab7.Entities
         {
             var SortedRatesList = (from r in _rates
                                    orderby r.Value.TpK descending
-                                   select r.Value.Name).ToList();
+                                   select r.Value.Name);//.ToList();
             foreach (var r in SortedRatesList)
             {
                 Console.WriteLine(r);
@@ -84,12 +84,10 @@ namespace _053505_Mazurenko_Lab7.Entities
 
         public void GetTotalCost()
         {
-            double sum = 0;
-            foreach (var u in _users)
-            {
-                var tempsum = u.Orders.Sum(n => n.Cost);
-                sum += tempsum;
-            }
+
+            var sum = _users
+                .Select(u => u.Orders.Sum(n => n.Cost))
+                .Aggregate<double, double>(0, (current, ordSum) => current + ordSum);
             Console.Write(sum);
         }
 
@@ -114,6 +112,8 @@ namespace _053505_Mazurenko_Lab7.Entities
             int num = (from u in _users
                        where u.Orders.Sum(n => n.Cost) > agg
                        select u).Count();
+
+            
             Console.WriteLine(num);
         }
     }
