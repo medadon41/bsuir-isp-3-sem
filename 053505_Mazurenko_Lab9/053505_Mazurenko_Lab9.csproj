@@ -6,4 +6,9 @@
     <RootNamespace>_053505_Mazurenko_Lab9</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\053505_Mazurenko_Lab9.Domain\053505_Mazurenko_Lab9.Domain.csproj" />
+    <ProjectReference Include="..\Serializer\Serializer.csproj" />
+  </ItemGroup>
+
 </Project>

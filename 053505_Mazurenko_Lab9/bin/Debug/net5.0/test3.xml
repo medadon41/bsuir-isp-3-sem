@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CompanyArray>
+  <Company>
+    <Name>Haunted Family</Name>
+    <Depart>
+      <WorkFrom>2021-10-22T18:12:26.8884952+03:00</WorkFrom>
+      <WorkTo>2021-10-23T02:12:26.89111+03:00</WorkTo>
+    </Depart>
+  </Company>
+  <Company>
+    <Name>Benzo Gang</Name>
+    <Depart>
+      <WorkFrom>2021-10-22T18:12:26.8912922+03:00</WorkFrom>
+      <WorkTo>2021-10-23T04:12:26.8912934+03:00</WorkTo>
+    </Depart>
+  </Company>
+  <Company>
+    <Name>Bandana</Name>
+    <Depart>
+      <WorkFrom>2021-10-22T18:12:26.891294+03:00</WorkFrom>
+      <WorkTo>2021-10-22T23:12:26.8912943+03:00</WorkTo>
+    </Depart>
+  </Company>
+  <Company>
+    <Name>Haunted Benzo</Name>
+    <Depart>
+      <WorkFrom>2021-10-22T18:12:26.8912949+03:00</WorkFrom>
+      <WorkTo>2021-10-23T15:12:26.8912952+03:00</WorkTo>
+    </Depart>
+  </Company>
+  <Company>
+    <Name>Dirrt</Name>
+    <Depart>
+      <WorkFrom>2021-10-22T18:12:26.8912957+03:00</WorkFrom>
+      <WorkTo>2021-10-22T20:12:26.891296+03:00</WorkTo>
+    </Depart>
+  </Company>
+</CompanyArray>

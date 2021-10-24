@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace _053505_Mazurenko_Lab9.Domain
 {
-    internal class Depart
+    public class Depart
     {
+        public DateTime WorkFrom { get; set; }
+
+        public DateTime WorkTo { get; set; }
     }
 }
