@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e63631a3-d27e-4b5b-a741-809898ff8543": {
+      "ProjectGuid": "e63631a3-d27e-4b5b-a741-809898ff8543",
+      "DisplayName": "053505_Mazurenko_Lab11_Task1",
+      "ColorIndex": 0
+    },
+    "a9b09a27-0247-4a24-8b2b-00ea2b35e3b8": {
+      "ProjectGuid": "a9b09a27-0247-4a24-8b2b-00ea2b35e3b8",
+      "DisplayName": "ClassLibraryTask1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

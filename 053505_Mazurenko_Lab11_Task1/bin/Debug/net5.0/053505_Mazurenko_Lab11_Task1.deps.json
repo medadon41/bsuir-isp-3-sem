@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "053505_Mazurenko_Lab11_Task1/1.0.0": {
+        "dependencies": {
+          "ClassLibraryTask1": "1.0.0"
+        },
+        "runtime": {
+          "053505_Mazurenko_Lab11_Task1.dll": {}
+        }
+      },
+      "ClassLibraryTask1/1.0.0": {
+        "runtime": {
+          "ClassLibraryTask1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "053505_Mazurenko_Lab11_Task1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryTask1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

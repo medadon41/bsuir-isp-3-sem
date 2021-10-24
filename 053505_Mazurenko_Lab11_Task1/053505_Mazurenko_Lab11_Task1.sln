@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "053505_Mazurenko_Lab11_Task1", "053505_Mazurenko_Lab11_Task1.csproj", "{E63631A3-D27E-4B5B-A741-809898FF8543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryTask1", "..\ClassLibraryTask1\ClassLibraryTask1.csproj", "{A9B09A27-0247-4A24-8B2B-00EA2B35E3B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63631A3-D27E-4B5B-A741-809898FF8543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63631A3-D27E-4B5B-A741-809898FF8543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63631A3-D27E-4B5B-A741-809898FF8543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63631A3-D27E-4B5B-A741-809898FF8543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B09A27-0247-4A24-8B2B-00EA2B35E3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B09A27-0247-4A24-8B2B-00EA2B35E3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B09A27-0247-4A24-8B2B-00EA2B35E3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B09A27-0247-4A24-8B2B-00EA2B35E3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF608B6-486D-48AB-A1BC-5D3FFD65A11E}
+	EndGlobalSection
+EndGlobal

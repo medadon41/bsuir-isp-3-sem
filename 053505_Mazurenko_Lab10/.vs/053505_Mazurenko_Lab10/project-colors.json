@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b30f50a0-3553-4421-a845-7cc0d04a8284": {
+      "ProjectGuid": "b30f50a0-3553-4421-a845-7cc0d04a8284",
+      "DisplayName": "053505_Mazurenko_Lab10",
+      "ColorIndex": 0
+    },
+    "124a8706-ae41-43a2-b57e-6b7c9233b282": {
+      "ProjectGuid": "124a8706-ae41-43a2-b57e-6b7c9233b282",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
