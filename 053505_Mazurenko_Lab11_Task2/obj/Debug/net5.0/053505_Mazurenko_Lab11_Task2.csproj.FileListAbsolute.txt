@@ -16,4 +16,3 @@ D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab11_Ta
 D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab11_Task2\obj\Debug\net5.0\ref\053505_Mazurenko_Lab11_Task2.dll
 D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab11_Task2\obj\Debug\net5.0\053505_Mazurenko_Lab11_Task2.pdb
 D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab11_Task2\obj\Debug\net5.0\053505_Mazurenko_Lab11_Task2.genruntimeconfig.cache
-D:\Уник\2 курс\ИСП 3 сем\bsuir-isp-3-sem\053505_Mazurenko_Lab11_Task2\obj\Debug\net5.0\053505_Mazurenko_Lab11_Task2.csproj.CopyComplete

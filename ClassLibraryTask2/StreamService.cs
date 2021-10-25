@@ -13,6 +13,7 @@ namespace ClassLibraryTask2
         private object locker = new();
         public void WriteToStream(Stream stream)
         {
+
             lock (locker)
             {
                 Console.WriteLine($"Writing to stream...[{Thread.CurrentThread.ManagedThreadId}]");
@@ -31,6 +32,7 @@ namespace ClassLibraryTask2
 
         public void CopyFromStream(Stream stream, string filename)
         {
+
             lock (locker)
             {
                 Console.WriteLine($"Copying from stream... [{Thread.CurrentThread.ManagedThreadId}]");

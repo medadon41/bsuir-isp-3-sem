@@ -24,7 +24,7 @@ namespace ClassLibraryTask1
 
             result *= h;
             sw.Stop();
-            onFinishCalc(result);
+            onFinishCalc?.Invoke(result);
             Console.WriteLine(sw.Elapsed);
         }
     }

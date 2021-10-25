@@ -14,13 +14,13 @@ namespace _053505_Mazurenko_Lab11_Task2
             MemoryStream ms = new();
             StreamService sr = new();
 
-            Thread t1 = new(() => sr.WriteToStreamTask(ms));
-            Thread t2 = new(() => sr.CopyFromStreamTask(ms, "database.dat"));
+            var t1= sr.WriteToStreamTask(ms);
+            var t2 = sr.CopyFromStreamTask(ms, "database.dat");
 
-            t1.Start();
-            t2.Start();
+            await Task.WhenAll(new Task[] { t1, t2 });
 
             Console.WriteLine($"Cars with capacity over 2 litres - {await sr.GetStatisticsAsync("database.dat", countFunc)}");
+            Console.ReadLine();
         }
     }
 }

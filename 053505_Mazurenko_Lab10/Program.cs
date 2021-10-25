@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 using System.Threading.Tasks;
-using ClassLibrary;
 
 namespace _053505_Mazurenko_Lab10
 {
@@ -19,12 +19,18 @@ namespace _053505_Mazurenko_Lab10
                 new ("Nikita", 29, true)
             };
             var employees2 = new List<Employee>();
-            var fileService = new FileService<Employee>();
 
+            Assembly asm = Assembly.LoadFrom("ClassLibrary.dll");
+            Type t = asm.GetType("ClassLibrary.FileService`1", true, true).MakeGenericType(typeof(Employee));
+            object obj = Activator.CreateInstance(t);
+
+            MethodInfo method1 = t.GetMethod("SaveData");
+            MethodInfo method2 = t.GetMethod("ReadFile");
             try
             {
-                fileService.SaveData(employees1, path);
-                employees2.AddRange(await fileService.ReadFile(path));
+                method1.Invoke(obj, new object[] { employees1, path});
+                var result = await (Task<IEnumerable<Employee>>)method2.Invoke(obj, new object[] { path });
+                employees2.AddRange(result);
             }
             catch (Exception e)
             {

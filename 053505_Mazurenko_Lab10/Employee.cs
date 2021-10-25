@@ -14,6 +14,11 @@ namespace _053505_Mazurenko_Lab10
 
         public bool IsIt { get; set; }
 
+        public Employee()
+        {
+
+        }
+
         public Employee(string name, int age, bool isBelarus)
         {
             Name = name;

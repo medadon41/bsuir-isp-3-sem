@@ -10,7 +10,7 @@ namespace _053505_Mazurenko_Lab11_Task1
         {
             Sinus.onFinishCalc += Handler.Message;
             SinusParams sp = new SinusParams(0, 1, 100000000);
-            Thread t1 = new(new ParameterizedThreadStart(Sinus.Integral));
+            Thread t1 = new(Sinus.Integral);
             Thread t2 = new(new ParameterizedThreadStart(Sinus.Integral));
             t1.Priority = ThreadPriority.Lowest;
             t2.Priority = ThreadPriority.Highest;
